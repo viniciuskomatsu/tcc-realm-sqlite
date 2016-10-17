@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TccRealm</string>
+    <string name="lblInserts">Inserts</string>
+    <string name="lblDeleteAll">Delete All</string>
+    <string name="lblTempoInserts">Para %1$s Inserts levou %2$s milisegundos</string>
+    <string name="lblTempoDeleteAll">Para deletar %1$s registros, leveou %2$s milisegundos</string>
+    <string name="lblContadorRegistro">Contador de Registro</string>
+    <string name="lblRegistroCount">Tem %1$s Livros e %2$s Capitulos</string>
+    <string name="lblQuantidadeLivros">Quantidade de Registros Livro:</string>
+    <string name="lblQuantidadeCapitulos">Quantidade de Registros Capitulo:</string>
+    <string name="lblSelectLivros">Select de Livros</string>
+    <string name="lblTempoSelectsLivros">Select de %1$s Livros, levou %2$s</string>
+    <string name="lblSelectCapitulos">Select de Capitulos</string>
+    <string name="lblTempoSelectsCapitulos">Select %1$s Capitulos, levou %2$s</string>
+    <string name="msgNecessarioInformarQuantidadeRegistro">É necessário informar a quantidade de registros a ser inserida</string>
+</resources>
